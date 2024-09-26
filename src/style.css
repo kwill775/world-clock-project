@@ -12,6 +12,7 @@ select {
   padding: 8px;
   border-radius: 5px;
   font-size: 18px;
+  background: #f6f6f6;
 }
 h2 {
   margin: 0 0 5px;
